@@ -1,21 +1,37 @@
 # Anita Chandrasekharan
 
-## GeoAI | Earth Observation | Remote Sensing | Environmental Intelligence
+## Remote Sensing Scientist | GeoAI | Earth Observation
 
-I am a Remote Sensing Scientist with a PhD in Remote Sensing & GIS from IIT Bombay, passionate about applying Earth Observation, geospatial analytics, and Artificial Intelligence to solve real-world environmental challenges.
+I am a Remote Sensing Scientist with a PhD in Remote Sensing & GIS from IIT Bombay, specializing in the application of Earth Observation, geospatial analytics, and GeoAI to address environmental and sustainability challenges.
 
 My work combines satellite imagery, GIS, machine learning, and cloud-based geospatial technologies to develop practical solutions for environmental monitoring, climate resilience, disaster risk assessment, and sustainable resource management.
+
+My goal is to transform satellite observations into actionable environmental intelligence for informed decision-making.
 
 ---
 
 ## Current Focus
 
-- GeoAI for Earth Observation
-- Google Earth Engine and Cloud Geospatial Computing
-- Satellite Image Analysis
-- Machine Learning for Geospatial Applications
+- GeoAI for Environmental Intelligence
+- Cloud-native Earth Observation Workflows
+- Machine Learning for Geospatial Analysis
+- Satellite Image Analytics
+- Climate and Environmental Monitoring
+- Interactive Geospatial Applications
+
+---
+## Research Interests
+
+My research interests include:
+
+- Earth Observation
+- GeoAI
 - Environmental Monitoring
-- Interactive Geospatial Dashboards
+- Climate Analytics
+- Hydrology
+- Geospatial Machine Learning
+- Disaster Risk Assessment
+- Sustainable Development
 
 ---
 
@@ -108,10 +124,10 @@ Highlights include:
 
 ---
 
-## Publications
+## Selected Publications
 
-A complete list of publications is available on my LinkedIn profile and will also be featured on my personal portfolio website.
-
+- Quantification of annual glacier surface mass balance for the Chhota Shigri Glacier, Western Himalayas, India using an Equilibrium-Line Altitude (ELA) based approach https://www.tandfonline.com/doi/full/10.1080/01431161.2018.1506182
+- Reconstructing 32 years (1989–2020) of annual glacier surface mass balance in Chandra Basin, Western Himalayas, India https://link.springer.com/article/10.1007/s10113-023-02112-4
 ---
 
 ## Connect
