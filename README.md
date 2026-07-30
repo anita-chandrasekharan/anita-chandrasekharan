@@ -4,34 +4,34 @@
 
 I am a Remote Sensing Scientist with a PhD in Remote Sensing & GIS from IIT Bombay, specializing in the application of Earth Observation, geospatial analytics, and GeoAI to address environmental and sustainability challenges.
 
-My work combines satellite imagery, GIS, machine learning, and cloud-based geospatial technologies to develop practical solutions for environmental monitoring, climate resilience, disaster risk assessment, and sustainable resource management.
+My work focuses on transforming satellite observations into actionable environmental intelligence through geospatial analytics, machine learning, and cloud-based Earth observation technologies.
 
-My goal is to transform satellite observations into actionable environmental intelligence for informed decision-making.
+---
+
+## Areas of Interest
+
+- GeoAI
+- Earth Observation
+- Remote Sensing
+- Environmental Intelligence
+- Climate Analytics
+- Hydrology
+- Disaster Risk Assessment
+- Sustainable Development
 
 ---
 
 ## Current Focus
 
+I am currently building geospatial applications that combine satellite imagery, artificial intelligence, and spatial analytics for environmental monitoring and decision support.
+
+Current areas of work include:
+
+- Google Earth Engine
 - GeoAI for Environmental Intelligence
-- Cloud-native Earth Observation Workflows
 - Machine Learning for Geospatial Analysis
-- Satellite Image Analytics
-- Climate and Environmental Monitoring
-- Interactive Geospatial Applications
-
----
-## Research Interests
-
-My research interests include:
-
-- Earth Observation
-- GeoAI
-- Environmental Monitoring
-- Climate Analytics
-- Hydrology
-- Geospatial Machine Learning
-- Disaster Risk Assessment
-- Sustainable Development
+- Interactive Geospatial Dashboards
+- Cloud-native Earth Observation Workflows
 
 ---
 
@@ -45,33 +45,36 @@ A real-time GeoAI dashboard integrating NASA wildfire hotspots, meteorological d
 
 Python • Streamlit • GeoPandas • PostGIS • Folium • NASA FIRMS • OpenStreetMap
 
-Repository: https://github.com/anita-chandrasekharan/geoai-wildfire-dashboard
+Repository:
+https://github.com/anita-chandrasekharan/geoai-wildfire-dashboard
 
 ---
 
-### Urban Heat Island Analysis *(Coming Soon)*
+### Urban Heat Island Analysis
 
-Quantifying urban heat island intensity using Landsat imagery and Google Earth Engine to identify heat-vulnerable zones.
+Monitoring urban thermal patterns using Landsat imagery and Google Earth Engine.
+
+*Work in Progress*
 
 ---
 
-### Wetland Monitoring *(Coming Soon)*
+### Wetland Monitoring
 
 Monitoring wetland dynamics using Sentinel-2 imagery and geospatial analytics.
 
+*Work in Progress*
+
 ---
 
-### NDVI Time Series Analysis *(Coming Soon)*
+### NDVI Time Series Analysis
 
 Long-term vegetation monitoring using satellite-derived NDVI time series.
 
+*Work in Progress*
+
 ---
 
-## Research
-
-My research focuses on the application of Earth Observation and geospatial technologies for environmental monitoring, climate studies, and geospatial intelligence.
-
-Highlights include:
+## Research Highlights
 
 - PhD in Remote Sensing & GIS, IIT Bombay
 - Department Silver Medalist (M.Tech), IIT Bombay
@@ -84,57 +87,60 @@ Highlights include:
 
 ### Programming
 
-- Python
-- SQL (Learning)
-- JavaScript (Google Earth Engine)
+Python
 
 ### Geospatial Technologies
 
-- Google Earth Engine
-- GeoPandas
-- GDAL
-- Rasterio
-- PostGIS
-- Shapely
-- PyProj
+Google Earth Engine
+
+GeoPandas
+
+GDAL
+
+Rasterio
+
+PostGIS
+
+Shapely
+
+PyProj
 
 ### GIS & Remote Sensing
 
-- ArcGIS Pro
-- QGIS
-- ENVI
-- ERDAS Imagine
+ArcGIS Pro
 
-### Data Science & GeoAI
+QGIS
 
-- Machine Learning
-- Spatial Analytics
-- Data Visualization
-- Environmental Modelling
+ENVI
+
+ERDAS Imagine
+
+### GeoAI & Analytics
+
+Machine Learning
+
+Spatial Analytics
+
+Environmental Modelling
+
+Data Visualization
 
 ---
 
 ## Currently Learning
 
-- GeoAI
 - Deep Learning for Remote Sensing
-- Cloud-native Geospatial Workflows
+- Cloud-native Geospatial Computing
 - Computer Vision for Earth Observation
-- AI-assisted Environmental Intelligence
+- Large-scale GeoAI Workflows
 
----
-
-## Selected Publications
-
-- Quantification of annual glacier surface mass balance for the Chhota Shigri Glacier, Western Himalayas, India using an Equilibrium-Line Altitude (ELA) based approach https://www.tandfonline.com/doi/full/10.1080/01431161.2018.1506182
-- Reconstructing 32 years (1989–2020) of annual glacier surface mass balance in Chandra Basin, Western Himalayas, India https://link.springer.com/article/10.1007/s10113-023-02112-4
 ---
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/anita-chandrasekharan
+**LinkedIn**
 
-Email: anitac.warrier@gmail.com
+https://www.linkedin.com/in/anita-chandrasekharan/
 
 ---
 
