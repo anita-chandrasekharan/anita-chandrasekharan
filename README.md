@@ -4,7 +4,7 @@
 </p>
 
 
-## Remote Sensing Scientist | GeoAI | Earth Observation
+## About Me 
 
 I am a Remote Sensing Scientist with a PhD in Remote Sensing & GIS from IIT Bombay, specializing in the application of Earth Observation, geospatial analytics, and GeoAI to address environmental and sustainability challenges.
 
@@ -36,6 +36,11 @@ Current areas of work include:
 - Machine Learning for Geospatial Analysis
 - Interactive Geospatial Dashboards
 - Cloud-native Earth Observation Workflows
+---
+
+  ## Featured Technologies
+
+Python • Google Earth Engine • GeoPandas • Rasterio • PostGIS • Streamlit • ArcGIS Pro • QGIS
 
 ---
 
