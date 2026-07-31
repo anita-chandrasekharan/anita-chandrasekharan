@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/github-banner.png" alt="GitHub Banner" width="100%">
 </p>
-# Anita Chandrasekharan
+
 
 ## Remote Sensing Scientist | GeoAI | Earth Observation
 
